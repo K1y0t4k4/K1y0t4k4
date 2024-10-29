@@ -2,7 +2,7 @@
 <div align=center>
   <img src="https://img.shields.io/badge/Python-yellow?style=plastic&logo=python" />
   <img src="https://img.shields.io/badge/C-red?style=plastic&logo=c" />
-  <img src="https://img.shields.io/badge/VScode-red?style=plastic&logo=vscode" />
+  <img src="https://img.shields.io/badge/VScode-blue?style=plastic&logo=vscode" />
 </div>
 </br>
 <div>
