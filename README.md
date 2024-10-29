@@ -8,6 +8,6 @@
 </br>
 <div>
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnznjn&layout=compact&theme=tokyonight" />
-  <img align=left src="https://github-readme-stats.vercel.app/api?username=lnznjn&show_icons=true&theme=radical" />
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=K1y0t4k4&show_icons=true&theme=radical" />
 </div>
 </br>
