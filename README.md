@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/C-red?style=plastic&logo=c" />
 </div>
 </br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnznjn&layout=compact&theme=tokyonight" /></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnznjn&layout=compact&theme=tokyonight" /></div>
 </br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lnznjn&show_icons=true&theme=radical" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=lnznjn&show_icons=true&theme=radical" /></div>
 </br>
