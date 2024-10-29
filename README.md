@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/OS-Linux-green?style=plastic&logo=linux" />
   <img src="https://img.shields.io/badge/Python-yellow?style=plastic&logo=python" />
   <img src="https://img.shields.io/badge/C-red?style=plastic&logo=c" />
-  <img src="https://img.shields.io/badge/Makefile-red?style=plastic&logo=makefile" />
 </div>
 </br>
 <div>
