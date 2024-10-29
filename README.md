@@ -1,7 +1,7 @@
 <div><h1 align=center>Welcome to my home!!!</h1></div>
 <div align=center>
-  <img src="https://img.shields.io/badge/Code-Python-yellow?style=plastic&logo=python" />
-  <img src="https://img.shields.io/badge/Code-C-red?style=plastic&logo=c" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=plastic&logo=python" />
+  <img src="https://img.shields.io/badge/C-red?style=plastic&logo=c" />
 </div>
 </br>
 <div>
