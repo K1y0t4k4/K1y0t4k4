@@ -1,7 +1,8 @@
 <div><h1 align=center>Welcome to my home!!!</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/IDE-VScode-blue?style=plastic" />
-  <img src="https://img.shields.io/badge/OS-linux-green?style=plastic&logo=linux" />
+  <img src="https://img.shields.io/badge/OS-Linux-green?style=plastic&logo=linux" />
+  <img src="https://img.shields.io/badge/OS-Windows-green?style=plastic&logo=windows" />
   <img src="https://img.shields.io/badge/Python-yellow?style=plastic&logo=python" />
   <img src="https://img.shields.io/badge/C-red?style=plastic&logo=c" />
 </div>
