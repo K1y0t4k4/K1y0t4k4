@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/OS-Linux-green?style=plastic&logo=linux" />
   <img src="https://img.shields.io/badge/Python-yellow?style=plastic&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/C-red?style=plastic&logo=c&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Golang-green?style=plastic&logo=go&logoColor=blue" />
 </div>
 </br>
 <div>
